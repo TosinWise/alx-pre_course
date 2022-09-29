@@ -1,2 +1,2 @@
 My first readme
-This is my time. I can win
+I can win
